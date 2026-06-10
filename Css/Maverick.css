@@ -1,0 +1,51 @@
+.caixa-centro {
+    text-align: center;
+}
+
+.caixa-centro img {
+    width: 500px;
+    height: auto;
+}
+
+
+body {
+    background-color: #8b733e;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.caixa-centro {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn-voltar {
+    display: block;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.btn-voltar img {
+    height: 30px;
+    width: auto;
+}
+
+.imagem-carro {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+a {
+    color: white;
+}
